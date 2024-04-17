@@ -1,0 +1,196 @@
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\appsettings.Development.json
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\appsettings.json
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\SportsPro.staticwebassets.runtime.json
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\SportsPro.exe
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\SportsPro.deps.json
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\SportsPro.runtimeconfig.json
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\SportsPro.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\SportsPro.pdb
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\Humanizer.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\obj\Debug\net6.0\SportsPro.csproj.AssemblyReference.cache
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\obj\Debug\net6.0\SportsPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\obj\Debug\net6.0\SportsPro.AssemblyInfoInputs.cache
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\obj\Debug\net6.0\SportsPro.AssemblyInfo.cs
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\obj\Debug\net6.0\SportsPro.csproj.CoreCompileInputs.cache
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\obj\Debug\net6.0\SportsPro.MvcApplicationPartsAssemblyInfo.cache
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\obj\Debug\net6.0\SportsPro.RazorAssemblyInfo.cache
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\obj\Debug\net6.0\SportsPro.RazorAssemblyInfo.cs
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\obj\Debug\net6.0\staticwebassets\msbuild.SportsPro.Microsoft.AspNetCore.StaticWebAssets.props
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\obj\Debug\net6.0\staticwebassets\msbuild.build.SportsPro.props
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SportsPro.props
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SportsPro.props
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\obj\Debug\net6.0\staticwebassets.pack.json
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\obj\Debug\net6.0\staticwebassets.build.json
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\obj\Debug\net6.0\staticwebassets.development.json
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\obj\Debug\net6.0\scopedcss\bundle\SportsPro.styles.css
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\obj\Debug\net6.0\SportsPro.csproj.CopyComplete
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\obj\Debug\net6.0\SportsPro.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\obj\Debug\net6.0\refint\SportsPro.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\obj\Debug\net6.0\SportsPro.pdb
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\obj\Debug\net6.0\SportsPro.genruntimeconfig.cache
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final\FinalProjectSportsPro\SportsPro\obj\Debug\net6.0\ref\SportsPro.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\appsettings.Development.json
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\appsettings.json
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\SportsPro.staticwebassets.runtime.json
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\SportsPro.exe
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\SportsPro.deps.json
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\SportsPro.runtimeconfig.json
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\SportsPro.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\SportsPro.pdb
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\Humanizer.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\obj\Debug\net6.0\SportsPro.csproj.AssemblyReference.cache
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\obj\Debug\net6.0\SportsPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\obj\Debug\net6.0\SportsPro.AssemblyInfoInputs.cache
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\obj\Debug\net6.0\SportsPro.AssemblyInfo.cs
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\obj\Debug\net6.0\SportsPro.csproj.CoreCompileInputs.cache
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\obj\Debug\net6.0\SportsPro.MvcApplicationPartsAssemblyInfo.cache
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\obj\Debug\net6.0\SportsPro.RazorAssemblyInfo.cache
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\obj\Debug\net6.0\SportsPro.RazorAssemblyInfo.cs
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\obj\Debug\net6.0\staticwebassets.build.json
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\obj\Debug\net6.0\staticwebassets.development.json
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\obj\Debug\net6.0\staticwebassets\msbuild.SportsPro.Microsoft.AspNetCore.StaticWebAssets.props
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\obj\Debug\net6.0\staticwebassets\msbuild.build.SportsPro.props
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SportsPro.props
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SportsPro.props
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\obj\Debug\net6.0\staticwebassets.pack.json
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\obj\Debug\net6.0\scopedcss\bundle\SportsPro.styles.css
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\obj\Debug\net6.0\SportsPro.csproj.CopyComplete
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\obj\Debug\net6.0\SportsPro.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\obj\Debug\net6.0\refint\SportsPro.dll
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\obj\Debug\net6.0\SportsPro.pdb
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\obj\Debug\net6.0\SportsPro.genruntimeconfig.cache
+C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_Template\FinalProjectSportsPro\SportsPro\obj\Debug\net6.0\ref\SportsPro.dll
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\bin\Debug\net6.0\appsettings.Development.json
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\bin\Debug\net6.0\appsettings.json
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\bin\Debug\net6.0\SportsPro.staticwebassets.runtime.json
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\bin\Debug\net6.0\SportsPro.exe
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\bin\Debug\net6.0\SportsPro.deps.json
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\bin\Debug\net6.0\SportsPro.runtimeconfig.json
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\bin\Debug\net6.0\SportsPro.dll
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\bin\Debug\net6.0\SportsPro.pdb
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\bin\Debug\net6.0\Humanizer.dll
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\bin\Debug\net6.0\System.Drawing.Common.dll
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\bin\Debug\net6.0\System.Runtime.Caching.dll
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\bin\Debug\net6.0\System.Security.Permissions.dll
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\bin\Debug\net6.0\System.Windows.Extensions.dll
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\obj\Debug\net6.0\SportsPro.csproj.AssemblyReference.cache
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\obj\Debug\net6.0\SportsPro.GeneratedMSBuildEditorConfig.editorconfig
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\obj\Debug\net6.0\SportsPro.AssemblyInfoInputs.cache
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\obj\Debug\net6.0\SportsPro.AssemblyInfo.cs
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\obj\Debug\net6.0\SportsPro.csproj.CoreCompileInputs.cache
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\obj\Debug\net6.0\SportsPro.MvcApplicationPartsAssemblyInfo.cache
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\obj\Debug\net6.0\SportsPro.RazorAssemblyInfo.cache
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\obj\Debug\net6.0\SportsPro.RazorAssemblyInfo.cs
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\obj\Debug\net6.0\SportsPro.sourcelink.json
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\obj\Debug\net6.0\staticwebassets.build.json
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\obj\Debug\net6.0\staticwebassets.development.json
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\obj\Debug\net6.0\staticwebassets\msbuild.SportsPro.Microsoft.AspNetCore.StaticWebAssets.props
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\obj\Debug\net6.0\staticwebassets\msbuild.build.SportsPro.props
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SportsPro.props
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SportsPro.props
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\obj\Debug\net6.0\staticwebassets.pack.json
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\obj\Debug\net6.0\scopedcss\bundle\SportsPro.styles.css
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\obj\Debug\net6.0\SportsPro.csproj.CopyComplete
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\obj\Debug\net6.0\SportsPro.dll
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\obj\Debug\net6.0\refint\SportsPro.dll
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\obj\Debug\net6.0\SportsPro.pdb
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\obj\Debug\net6.0\SportsPro.genruntimeconfig.cache
+c:\AllFilesShouldBeHere_Sept8_2023\Coding Work\GitHub Projects\ASP.NetCoreMVC\SportsPro\obj\Debug\net6.0\ref\SportsPro.dll

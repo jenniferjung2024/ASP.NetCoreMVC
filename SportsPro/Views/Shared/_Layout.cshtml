@@ -1,9 +1,14 @@
-﻿<!DOCTYPE html>
+﻿@{
+    string c = ViewContext.RouteData.Values["controller"]?.ToString() ?? "";
+    string a = ViewContext.RouteData.Values["action"]?.ToString() ?? "";
+}
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - SportsPro</title>
+    <title>@ViewData["Title"] - Jung's SportsPro</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
 </head>
@@ -11,7 +16,7 @@
     <header>
         <nav class="navbar navbar-expand-md navbar-dark bg-primary mb-3">
             <div class="container-fluid">
-                <a class="navbar-brand" href="/">SportsPro</a>
+                <a class="navbar-brand" href="/">Jung's SportsPro</a>
                 <button class="navbar-toggler" type="button"
                         data-bs-toggle="collapse"
                         data-bs-target="#navbarSupportedContent"
@@ -21,33 +26,75 @@
                 </button>
                 <nav class="collapse navbar-collapse" id="navbarSupportedContent">
                     <div class="navbar-nav me-auto">
-                        <a class="nav-item nav-link active" asp-controller="Home" asp-action="Index">Home</a>
-                        <a class="nav-item nav-link active" asp-controller="Product" asp-action="List">Products</a>
-                        <a class="nav-item nav-link active" asp-controller="Technician" asp-action="List">Technicians</a>
-                        <a class="nav-item nav-link active" asp-controller="Customer" asp-action="List">Customers</a>
-                        <a class="nav-item nav-link active" asp-controller="Incident" asp-action="List">Incidents</a>
-                        <a class="nav-item nav-link active" asp-controller="Registration" asp-action="Index">Registrations</a>
+                        <a class="nav-item nav-link @(c == "Home" && a == "Index" ? "active" : "")" asp-controller="Home" asp-action="Index">Home</a>
+                        <a class="nav-item nav-link @(c == "Product" && a == "List" ? "active" : "")" asp-controller="Product" asp-action="List">Products</a>
+                        <a class="nav-item nav-link @(c == "Technician" && a == "List" ? "active" : "")" asp-controller="Technician" asp-action="List">Technicians</a>
+                        <a class="nav-item nav-link @(c == "Customer" && a == "List" ? "active" : "")" asp-controller="Customer" asp-action="List">Customers</a>
+                        <a class="nav-item nav-link @(c == "Incident" && a == "List" ? "active" : "")" asp-controller="Incident" asp-action="List">Incidents</a>
+                        <a class="nav-item nav-link @(c == "Registration" && a == "Index" ? "active" : "")" asp-controller="Registration" asp-action="Index">Registrations</a>
                     </div>
                     <div class="navbar-nav ms-auto">
-                        <a class="nav-item nav-link active" asp-controller="Home" asp-action="About">About</a>
+
+                        @using Microsoft.AspNetCore.Identity
+                        @inject SignInManager<User> signInManager
+
+                        @if (signInManager.IsSignedIn(User))
+                        {
+                            // signed-in user - Log Out button and username and change password link
+                            <li class="nav-item">
+                                <a class="nav-link @Nav.Active("Change Password", a)" asp-action="ChangePassword" asp-controller="Account" asp-area="">
+                                    <span class="fas fa-edit"></span>&nbsp;Change Password
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <form method="post" asp-action="LogOut" asp-controller="Account" asp-area="">
+                                    <input type="submit" value="Log Out" class="btn btn-outline-light" />
+                                    <span class="text-light">@User.Identity?.Name</span>
+                                </form>
+                            </li>
+                        }
+
+                        else
+                        {
+                            // anonymous user - Register link and Log In button
+                            <li class="nav-item">
+                                <a class="nav-link @Nav.Active("Register", a)" asp-action="Register" asp-controller="Account" asp-area="">
+                                    <span class="fas fa-edit"></span>&nbsp;Register
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a asp-action="Login" asp-controller="Account" asp-area="" class="btn btn-outline-light">Log In</a>
+                            </li>
+                        }
+
+                        <a class="nav-item nav-link @(c == "Home" && a == "About" ? "active" : "")" asp-controller="Home" asp-action="About">About</a>
                     </div>
                 </nav>
             </div>
         </nav>
+
+        
+        @* show any message in TempData *@
+
+        @if (TempData.Keys.Contains("message"))
+        {
+            <h4 class="bg-success p-2">@TempData["message"]</h4>
+        }
+
+
     </header>
     <div class="container">
         <main role="main" class="pb-3">
+            @RenderSection("scripts", false)
             @RenderBody()
         </main>
     </div>
 
     <footer class="border-top footer text-muted mt-3 pb-3">
-        <div class="container">&copy; @DateTime.Now.Year - SportsPro</div>
+        <div class="container">&copy; @DateTime.Now.Year - Jung's SportsPro</div>
     </footer> 
 
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
-    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
 </body>
 </html>

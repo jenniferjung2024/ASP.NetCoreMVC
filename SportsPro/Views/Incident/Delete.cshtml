@@ -1,0 +1,17 @@
+﻿@model Incident;
+
+@{
+    ViewData["Title"] = "Delete Incident";
+}
+
+<h2>Confirm Deletion</h2>
+<h3>@Model.Customer.FullName (@Model.DateOpened.Value.ToString("MM/dd/yyyy") - @Model.Title)</h3>
+
+<form asp-action="Delete" method="post">
+
+    <input type="hidden" asp-for="IncidentID">
+
+    <button type="submit" class="btn btn-primary">Delete</button>
+    <a asp-controller="Incident" asp-action="List" class="btn btn-primary">Cancel</a>
+
+</form>

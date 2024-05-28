@@ -1,0 +1,82 @@
+﻿@model Incident
+
+@{
+    ViewBag.Title = "Edit Incident";
+}
+
+@section scripts
+   {
+    <partial name="_ValidationScriptsPartial"/>
+   }
+
+<h1>@ViewBag.Title</h1>
+
+<form asp-action="Edit" method="post">
+
+    <div class="row mb-1">
+        <label class="form-label col-md-3">Technician: </label>
+        <div class="col">
+            <label>@Model.Technician.Name</label>
+        </div>
+    </div>
+
+    <div class="row mb-1">
+        <label class="form-label col-md-3">Customer: </label>
+        <div class="col">
+            <label>@Model.Customer.FullName</label>
+        </div>
+    </div>
+
+    <div class="row mb-1">
+        <label class="form-label col-md-3">Product: </label>
+        <div class="col">
+            <label>@Model.Product.Name</label>
+        </div>
+    </div>
+
+    <div class="row mb-1">
+        <label class="form-label col-md-3">Title: </label>
+        <div class="col">
+            <label>@Model.Title</label>
+        </div>
+    </div>
+
+    <div class="row mb-1">
+        <label class="form-label col-md-3">Date Opened: </label>
+        <div class="col">
+            <label>@Model.DateOpened</label>
+        </div>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="@Model.Description" class="col-form-label col-md-3">Description: </label>
+        <div class="col">
+            <textarea asp-for="@Model.Description" class="form-control"></textarea>
+        </div>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="@Model.DateClosed" class="col-form-label col-md-3">Date Closed: </label>
+        <div class="col">
+            <input asp-for="@Model.DateClosed" class="form-control">
+        </div>
+    </div>
+
+    <input type="hidden" asp-for="@Model.IncidentID">
+    <input type="hidden" asp-for="@Model.TechnicianID">
+    <input type="hidden" asp-for="@Model.CustomerID">
+    <input type="hidden" asp-for="@Model.ProductID">
+    <input type="hidden" asp-for="@Model.Title">
+    <input type="hidden" asp-for="@Model.Description">
+    <input type="hidden" asp-for="@Model.DateOpened">
+
+    <div class="row">
+        <div class="col">
+            <button type="submit" class="btn btn-primary">  Save  </button>
+            <a asp-action="List" asp-route-id="@Model.Technician.TechnicianID" class="btn btn-primary">Cancel</a>
+        </div>
+    </div>
+
+</form>
+
+

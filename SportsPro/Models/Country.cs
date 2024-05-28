@@ -1,4 +1,6 @@
-﻿namespace SportsPro.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace SportsPro.Models
 {
     public class Country
     {

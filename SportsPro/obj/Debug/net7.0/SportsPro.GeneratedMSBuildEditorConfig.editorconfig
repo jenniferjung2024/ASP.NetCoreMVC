@@ -1,0 +1,119 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SportsPro
+build_property.RootNamespace = SportsPro
+build_property.ProjectDir = C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_UpdatedNOFILTERING\Jung_FinalProjectSportsPro\SportsPro\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\AllFilesShouldBeHere_Sept8_2023\Coding Work\Database_Programming_Classwork\Database_Final_Project\Database_Final_UpdatedNOFILTERING\Jung_FinalProjectSportsPro\SportsPro
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/AllFilesShouldBeHere_Sept8_2023/Coding Work/Database_Programming_Classwork/Database_Final_Project/Database_Final_UpdatedNOFILTERING/Jung_FinalProjectSportsPro/SportsPro/Views/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AllFilesShouldBeHere_Sept8_2023/Coding Work/Database_Programming_Classwork/Database_Final_Project/Database_Final_UpdatedNOFILTERING/Jung_FinalProjectSportsPro/SportsPro/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AllFilesShouldBeHere_Sept8_2023/Coding Work/Database_Programming_Classwork/Database_Final_Project/Database_Final_UpdatedNOFILTERING/Jung_FinalProjectSportsPro/SportsPro/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AllFilesShouldBeHere_Sept8_2023/Coding Work/Database_Programming_Classwork/Database_Final_Project/Database_Final_UpdatedNOFILTERING/Jung_FinalProjectSportsPro/SportsPro/Views/Customer/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AllFilesShouldBeHere_Sept8_2023/Coding Work/Database_Programming_Classwork/Database_Final_Project/Database_Final_UpdatedNOFILTERING/Jung_FinalProjectSportsPro/SportsPro/Views/Customer/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AllFilesShouldBeHere_Sept8_2023/Coding Work/Database_Programming_Classwork/Database_Final_Project/Database_Final_UpdatedNOFILTERING/Jung_FinalProjectSportsPro/SportsPro/Views/Customer/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AllFilesShouldBeHere_Sept8_2023/Coding Work/Database_Programming_Classwork/Database_Final_Project/Database_Final_UpdatedNOFILTERING/Jung_FinalProjectSportsPro/SportsPro/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AllFilesShouldBeHere_Sept8_2023/Coding Work/Database_Programming_Classwork/Database_Final_Project/Database_Final_UpdatedNOFILTERING/Jung_FinalProjectSportsPro/SportsPro/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AllFilesShouldBeHere_Sept8_2023/Coding Work/Database_Programming_Classwork/Database_Final_Project/Database_Final_UpdatedNOFILTERING/Jung_FinalProjectSportsPro/SportsPro/Views/Incident/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5jaWRlbnRcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AllFilesShouldBeHere_Sept8_2023/Coding Work/Database_Programming_Classwork/Database_Final_Project/Database_Final_UpdatedNOFILTERING/Jung_FinalProjectSportsPro/SportsPro/Views/Incident/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5jaWRlbnRcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AllFilesShouldBeHere_Sept8_2023/Coding Work/Database_Programming_Classwork/Database_Final_Project/Database_Final_UpdatedNOFILTERING/Jung_FinalProjectSportsPro/SportsPro/Views/Incident/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5jaWRlbnRcTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AllFilesShouldBeHere_Sept8_2023/Coding Work/Database_Programming_Classwork/Database_Final_Project/Database_Final_UpdatedNOFILTERING/Jung_FinalProjectSportsPro/SportsPro/Views/Incident/ListOpen.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5jaWRlbnRcTGlzdE9wZW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AllFilesShouldBeHere_Sept8_2023/Coding Work/Database_Programming_Classwork/Database_Final_Project/Database_Final_UpdatedNOFILTERING/Jung_FinalProjectSportsPro/SportsPro/Views/Product/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AllFilesShouldBeHere_Sept8_2023/Coding Work/Database_Programming_Classwork/Database_Final_Project/Database_Final_UpdatedNOFILTERING/Jung_FinalProjectSportsPro/SportsPro/Views/Product/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AllFilesShouldBeHere_Sept8_2023/Coding Work/Database_Programming_Classwork/Database_Final_Project/Database_Final_UpdatedNOFILTERING/Jung_FinalProjectSportsPro/SportsPro/Views/Product/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AllFilesShouldBeHere_Sept8_2023/Coding Work/Database_Programming_Classwork/Database_Final_Project/Database_Final_UpdatedNOFILTERING/Jung_FinalProjectSportsPro/SportsPro/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AllFilesShouldBeHere_Sept8_2023/Coding Work/Database_Programming_Classwork/Database_Final_Project/Database_Final_UpdatedNOFILTERING/Jung_FinalProjectSportsPro/SportsPro/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AllFilesShouldBeHere_Sept8_2023/Coding Work/Database_Programming_Classwork/Database_Final_Project/Database_Final_UpdatedNOFILTERING/Jung_FinalProjectSportsPro/SportsPro/Views/TechIncident/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVjaEluY2lkZW50XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AllFilesShouldBeHere_Sept8_2023/Coding Work/Database_Programming_Classwork/Database_Final_Project/Database_Final_UpdatedNOFILTERING/Jung_FinalProjectSportsPro/SportsPro/Views/TechIncident/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVjaEluY2lkZW50XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AllFilesShouldBeHere_Sept8_2023/Coding Work/Database_Programming_Classwork/Database_Final_Project/Database_Final_UpdatedNOFILTERING/Jung_FinalProjectSportsPro/SportsPro/Views/TechIncident/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVjaEluY2lkZW50XExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AllFilesShouldBeHere_Sept8_2023/Coding Work/Database_Programming_Classwork/Database_Final_Project/Database_Final_UpdatedNOFILTERING/Jung_FinalProjectSportsPro/SportsPro/Views/Technician/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVjaG5pY2lhblxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AllFilesShouldBeHere_Sept8_2023/Coding Work/Database_Programming_Classwork/Database_Final_Project/Database_Final_UpdatedNOFILTERING/Jung_FinalProjectSportsPro/SportsPro/Views/Technician/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVjaG5pY2lhblxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AllFilesShouldBeHere_Sept8_2023/Coding Work/Database_Programming_Classwork/Database_Final_Project/Database_Final_UpdatedNOFILTERING/Jung_FinalProjectSportsPro/SportsPro/Views/Technician/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVjaG5pY2lhblxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AllFilesShouldBeHere_Sept8_2023/Coding Work/Database_Programming_Classwork/Database_Final_Project/Database_Final_UpdatedNOFILTERING/Jung_FinalProjectSportsPro/SportsPro/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AllFilesShouldBeHere_Sept8_2023/Coding Work/Database_Programming_Classwork/Database_Final_Project/Database_Final_UpdatedNOFILTERING/Jung_FinalProjectSportsPro/SportsPro/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

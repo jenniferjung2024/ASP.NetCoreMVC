@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 
 namespace SportsPro.Controllers
 {
@@ -9,6 +10,7 @@ namespace SportsPro.Controllers
             return View();
         }
 
+        [Route("[action]")]
         public IActionResult About()
         {
             return View();

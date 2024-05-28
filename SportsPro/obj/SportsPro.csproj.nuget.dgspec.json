@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\AllFilesShouldBeHere_Sept8_2023\\Coding Work\\GitHub Projects\\ASP.NetCoreMVC\\SportsPro\\SportsPro.csproj": {}
+    "C:\\AllFilesShouldBeHere_Sept8_2023\\Coding Work\\Database_Programming_Classwork\\Database_Final_Project\\Database_Final_UpdatedNOFILTERING\\Jung_FinalProjectSportsPro\\SportsPro\\SportsPro.csproj": {}
   },
   "projects": {
-    "c:\\AllFilesShouldBeHere_Sept8_2023\\Coding Work\\GitHub Projects\\ASP.NetCoreMVC\\SportsPro\\SportsPro.csproj": {
+    "C:\\AllFilesShouldBeHere_Sept8_2023\\Coding Work\\Database_Programming_Classwork\\Database_Final_Project\\Database_Final_UpdatedNOFILTERING\\Jung_FinalProjectSportsPro\\SportsPro\\SportsPro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\AllFilesShouldBeHere_Sept8_2023\\Coding Work\\GitHub Projects\\ASP.NetCoreMVC\\SportsPro\\SportsPro.csproj",
+        "projectUniqueName": "C:\\AllFilesShouldBeHere_Sept8_2023\\Coding Work\\Database_Programming_Classwork\\Database_Final_Project\\Database_Final_UpdatedNOFILTERING\\Jung_FinalProjectSportsPro\\SportsPro\\SportsPro.csproj",
         "projectName": "SportsPro",
-        "projectPath": "c:\\AllFilesShouldBeHere_Sept8_2023\\Coding Work\\GitHub Projects\\ASP.NetCoreMVC\\SportsPro\\SportsPro.csproj",
+        "projectPath": "C:\\AllFilesShouldBeHere_Sept8_2023\\Coding Work\\Database_Programming_Classwork\\Database_Final_Project\\Database_Final_UpdatedNOFILTERING\\Jung_FinalProjectSportsPro\\SportsPro\\SportsPro.csproj",
         "packagesPath": "C:\\Users\\Jennifer\\.nuget\\packages\\",
-        "outputPath": "c:\\AllFilesShouldBeHere_Sept8_2023\\Coding Work\\GitHub Projects\\ASP.NetCoreMVC\\SportsPro\\obj\\",
+        "outputPath": "C:\\AllFilesShouldBeHere_Sept8_2023\\Coding Work\\Database_Programming_Classwork\\Database_Final_Project\\Database_Final_UpdatedNOFILTERING\\Jung_FinalProjectSportsPro\\SportsPro\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\NewProgram_VisualStudio_Tools_SharedComponents\\NuGetPackages"
@@ -22,7 +22,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -30,8 +30,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -42,18 +42,22 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[6.0.10, )"
+              "version": "[7.0.14, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.10, )"
+              "version": "[7.0.14, )"
             }
           },
           "imports": [

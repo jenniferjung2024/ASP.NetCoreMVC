@@ -1,0 +1,66 @@
+﻿@model Customer
+
+@{
+    string title = ViewBag.Action + " Customer";
+    ViewData["Title"] = title;
+
+}
+
+<h2>@ViewBag.Title</h2>
+
+<form asp-action="Edit" method="post">
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+    <div class="mb-3">
+        <label asp-for="FirstName" class="form-label">First Name</label>
+        <input asp-for="FirstName" class="form-control">
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="LastName" class="form-label">Last Name</label>
+        <input asp-for="LastName" class="form-control">
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Address" class="form-label">Address</label>
+        <input asp-for="Address" class="form-control">
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="City" class="form-label">City</label>
+        <input asp-for="City" class="form-control">
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="State" class="form-label">State</label>
+        <input asp-for="State" class="form-control">
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="PostalCode" class="form-label">Postal Code</label>
+        <input asp-for="PostalCode" class="form-control">
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="CountryID" class="form-label">Country</label>
+        <select asp-for="CountryID" asp-items="@(new SelectList(ViewBag.Countries, "CountryID", "Name"))" class="form-select">
+            <option disabled selected>Select a country...</option>
+        </select>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Email" class="form-label">Email</label>
+        <input asp-for="Email" class="form-control">
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Phone" class="form-label">Phone</label>
+        <input asp-for="Phone" class="form-control">
+    </div>
+
+    <input type="hidden" asp-for="CustomerID">
+
+    <button type="submit" class="btn btn-primary">  Save  </button>
+    <a asp-controller="Customer" asp-action="List" class="btn btn-primary">Cancel</a>
+
+</form>
